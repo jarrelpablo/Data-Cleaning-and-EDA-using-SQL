@@ -2,8 +2,6 @@
 
 > A 1,000,000-transaction retail dataset (star schema, 6 tables) validated, cleaned and explored in MySQL, then turned into an interactive Power BI dashboard. Raw tables are never modified: every fix is applied to copies in a separate `data_cleaning` schema, and the dashboard is built on the cleaned tables.
 
-![Dashboard](images/dashboard.png)
-
 ## 1. Project Overview
 
 - **Goal:** Make the data reliable, then answer business questions about revenue, growth, products, customers, regions and payment methods, and present the answers in a dashboard.
