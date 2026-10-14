@@ -2,7 +2,6 @@
 
 > An end-to-end analysis of 1,000,000 retail transactions: data gathering, quality checks and cleaning in MySQL, exploratory analysis, a Power BI dashboard, and recommendations.
 
-![Dashboard](images/dashboard.png)
 
 ## 1. Project Overview
 
@@ -90,7 +89,7 @@ The Power BI dashboard adds the Year and Month slicers, month-over-month and yea
 | 1 | **Revenue is flat, not growing** | About 15M a year from 2015 to 2020, a spread of roughly 1% |
 | 2 | **No real seasonality** | Revenue per day stays within ±1.7% of average in every month; February is 8% below on monthly totals only because it has fewer days |
 | 3 | **Price decides which products rank highest** | The top 10 products each sell 22,783 to 23,740 units, so the order follows unit price. Red Bull 12oz leads with 1.31M. The top 10 are 10.2% of revenue, and all seven K-Cups items are among them |
-| 4 | **No single customer matters** | The top 10 customers make 0.16% of revenue. They buy more often (118 to 149 transactions against about 109 on average), not in bigger baskets |
+| 4 | **Every Customer Matters** | The top 10 customers make 0.16% of revenue. They buy more often (118 to 149 transactions against about 109 on average), not in bigger baskets |
 | 5 | **Store count explains the regions** | Dhaka brings in 40.76M (38.7%) with 280 of 726 store keys. Revenue per store is about 145K in every division |
 | 6 | **Card is the main payment method** | 89.7% of transactions (897,319) and 94.58M in value. Basket size is the same for every payment type |
 
@@ -101,7 +100,7 @@ The Power BI dashboard adds the Year and Month slicers, month-over-month and yea
 | Flat revenue | Set a growth target and test ways to reach it: a price review, promotions, or new stores. Don't plan around organic growth |
 | No seasonality | Set targets per day (about 41K), not per month, so February isn't flagged as a problem. Don't plan seasonal stock or staffing from this data |
 | Price drives product rank | Review prices on top-ranking items first, and look for room to raise prices on the cheapest items. Bundle low-priced items with high-priced ones |
-| No customer dependence | Focus on the whole customer base, with loyalty offers that raise transactions per customer |
+| Every customer is important | Focus on the whole customer base, with loyalty offers that raise transactions per customer |
 | Store count drives regions | To add revenue, add stores. Divisions with few stores (Sylhet 38, Barisal 52) have room to grow at the same per-store return |
 | Card dominance | Keep card payments reliable and negotiate processing fees |
 
