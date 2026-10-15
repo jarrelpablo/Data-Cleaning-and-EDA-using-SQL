@@ -17,12 +17,12 @@
 
 | Step | What was done | File |
 |---|---|---|
-| 1. Gather | Loaded the six source tables into MySQL | [Data section](#2-data-gathering) |
-| 2. Assess | Checked the raw tables for blanks, bad values and broken keys | [`Data_Quality_Assessment_E-Commerce.sql`](Data_Quality_Assessment_E-Commerce.sql) |
-| 3. Clean | Fixed the issues on copies in a separate `data_cleaning` schema | [`Data_Cleaning_E-Commerce.sql`](Data_Cleaning_E-Commerce.sql) |
-| 4. Explore | Calculated KPIs, trends, and top products, customers, divisions and payments | [`EDA_E-Commerce.sql`](EDA_E-Commerce.sql) |
-| 5. Visualize | Built an interactive dashboard on the cleaned tables | [`powerbi/E-Commerce_Visualization.pbix`](powerbi/E-Commerce_Visualization.pbix) |
-| 6. Recommend | Turned the findings into actions | [Sections 6 and 7](#6-key-insights) |
+| 1. Gather | Loaded the six source tables into MySQL |
+| 2. Assess | Checked the raw tables for blanks, bad values and broken keys | 
+| 3. Clean | Fixed the issues on copies in a separate `data_cleaning` schema |
+| 4. Explore | Calculated KPIs, trends, and top products, customers, divisions and payments |
+| 5. Visualize | Built an interactive dashboard on the cleaned tables |
+| 6. Recommend | Turned the findings into actions |
 
 Each SQL script is commented step by step.
 
