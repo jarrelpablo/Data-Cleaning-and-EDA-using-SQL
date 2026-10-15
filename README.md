@@ -16,7 +16,7 @@
 **Workflow**
 
 | Step | What was done |
-|---|---|
+|---|---------|
 | 1. Gather | Loaded the six source tables into MySQL |
 | 2. Assess | Checked the raw tables for blanks, bad values and broken keys | 
 | 3. Clean | Fixed the issues on copies in a separate `data_cleaning` schema |
