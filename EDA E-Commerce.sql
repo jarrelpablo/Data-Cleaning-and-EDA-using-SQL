@@ -159,5 +159,5 @@ ORDER BY Total_Type_of_Transaction DESC;
 
 -- Card is by far the most common payment method, with 897,319 transactions (89.7%) and 94.58M in value
 -- Average transaction value is nearly identical across methods (105.20 to 105.84), so payment type does not affect basket size.
--- 
+
 
