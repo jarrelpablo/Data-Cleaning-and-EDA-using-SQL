@@ -107,17 +107,16 @@ The Power BI dashboard adds the Year and Month slicers, month-over-month and yea
 | Flat revenue | Set a growth target and test ways to reach it: a price review, promotions, or new stores. Don't plan around organic growth |
 | No seasonality | Set targets per day (about 41K), not per month, so February isn't flagged as a problem. Don't plan seasonal stock or staffing from this data |
 | Price drives product rank | Review prices on top-ranking items first, and look for room to raise prices on the cheapest items. Bundle low-priced items with high-priced ones |
-| Every customer is important | Focus on the whole customer base, with loyalty offers that raise transactions per customer |
+| Every customer matters | Focus on the whole customer base, with loyalty offers that raise transactions per customer |
 | Store count drives regions | To add revenue, add stores. Divisions with few stores (Sylhet 38, Barisal 52) have room to grow at the same per-store return |
 | Card dominance | Keep card payments reliable and negotiate processing fees |
 
 ## 8. Limitations
 
-- The patterns are unusually uniform, so the data looks generated. The findings describe this dataset, not real consumer behavior, and the recommendations assume it reflects real sales.
-- January 2014 and January 2021 are partial months, so their growth rates are not real.
+- The patterns are unusually uniform. The findings describe this dataset, not real consumer behavior, and the recommendations assume it reflects real sales.
+- January 2014 and January 2021 are partial months, so their growth rates should be looked into.
 - The `bags` unit for item `I00158` is an assumption.
 - 726 store keys map to 556 distinct locations.
-- Five item names are shared by two item keys, which can shift product rankings slightly.
 
 ## 9. Tools
 
