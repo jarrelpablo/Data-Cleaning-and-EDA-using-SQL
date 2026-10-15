@@ -42,6 +42,12 @@ Source: [add source / link]. The data is a star schema covering January 2014 to 
 
 Customer names, contact numbers and national IDs are not published. Customers appear by `customer_key` only.
 
+## Data Model 
+
+![Data Model](Data%20Model.png)
+
+The tables form a star schema. fact_table sits in the center, and each transaction links to one row in each of the dimension tables (customer_dim, item_dim, store_dim, time_dim and trans_dim) through its keys. The same model is used in the Power BI dashboard.
+
 ## 3. Data Quality Assessment
 
 The raw tables were checked for structure, row counts, nulls, impossible values and broken keys.
