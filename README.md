@@ -142,4 +142,4 @@ MySQL, MySQL Workbench, Power BI Desktop, DAX.
 3. Open the `.pbix` file in Power BI Desktop (free, Windows).
 
 ---
-**Author:** Jarrel Christian M. Pablo | [GitHub](https://github.com/jarrelpablo) | [LinkedIn] | [Portfolio]
+**Author:** Jarrel Christian M. Pablo | [GitHub](https://github.com/jarrelpablo) | [LinkedIn](www.linkedin.com/in/jarrel-christian-pablo) | [Portfolio]
