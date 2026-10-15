@@ -29,7 +29,7 @@ Each SQL script is commented step by step.
 
 ## 2. Data Gathering
 
-Source: ![kaggle](https://www.kaggle.com/datasets/mmohaiminulislam/ecommerce-data-analysis). The data is a star schema covering January 2014 to January 2021, loaded into MySQL as six tables.
+Source: [kaggle](https://www.kaggle.com/datasets/mmohaiminulislam/ecommerce-data-analysis). The data is a star schema covering January 2014 to January 2021, loaded into MySQL as six tables.
 
 | Table | Rows | Contents |
 |---|---|---|
