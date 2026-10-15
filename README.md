@@ -2,7 +2,7 @@
 
 > An end-to-end analysis of 1,000,000 retail transactions: data gathering, quality checks and cleaning in MySQL, exploratory analysis, a Power BI dashboard, and recommendations.
 
-![E-Commerce Dashboard](E-Commerce%20Dashboard.png)
+![E-Commerce Dashboard](images/E-Commerce%20Dashboard.png)
 
 ## 1. Project Overview
 
