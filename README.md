@@ -129,10 +129,10 @@ MySQL, MySQL Workbench, Power BI Desktop, DAX.
 ├── Data_Quality_Assessment_E-Commerce.sql
 ├── Data_Cleaning_E-Commerce.sql
 ├── EDA_E-Commerce.sql
-├── powerbi/
-│   └── E-Commerce_Visualization.pbix
+├── E-Commerce_Visualization.pbix
 └── images/
-    └── dashboard.png
+    └── E-Commerce_Visualization.png
+    └── Data_Model.png
 ```
 
 ## 11. How to Reproduce
